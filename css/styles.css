@@ -1,0 +1,75 @@
+body{
+    margin:0;
+    padding:0;
+    text-align: center;
+    background-color:snow;
+}1
+.logo{
+    display: block;
+    margin: auto;
+
+}
+nav ul{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+font-family: 'Bad Script', cursive;
+    padding:0;
+    margin:0;
+    width: 25%;
+    margin-right: -4px;
+
+}
+nav ul li a{
+    display: block;
+}
+a{
+    text-decoration:none;
+    
+}
+nav ul li a:hover{
+   color:palevioletred;
+    background-color: #e0aff5;
+    transition: 0.5s ease;
+}
+.izquierda{
+    display: inline-block;
+    width: 28%;
+   
+}
+.izquierda img, video{
+    width: 85%;
+padding-top: 10px;
+}
+nav{
+    background-color:rgba(226, 178, 186, 0.78);
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.centro{
+    display: inline-block;
+    width: 28%; 
+    vertical-align: top;
+    
+}
+.centro img{
+    width: 91%;
+    padding-top: 10px;
+}
+.derecha{
+    width: 38%;
+    display: inline-block;
+    vertical-align: top;
+}
+.derecha img{
+    width: 90%;
+    padding-top: 10px;
+}
+
+h1{
+            font-family: 'Dancing Script', cursive;
+        }
